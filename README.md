@@ -1,2 +1,2 @@
 # School-
-A website to be used by shool.
+A website to be used by school.
